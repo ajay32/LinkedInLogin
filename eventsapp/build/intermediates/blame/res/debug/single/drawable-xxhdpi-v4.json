@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\Android_Studio_Projects\\InLogin\\eventsapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "E:\\Android_Studio_Projects\\InLogin\\eventsapp\\build\\intermediates\\exploded-aar\\InLogin\\linkedin-sdk\\unspecified\\res\\drawable-xxhdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidX\\InLogin\\eventsapp\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "D:\\AndroidX\\InLogin\\eventsapp\\build\\intermediates\\exploded-aar\\InLogin\\linkedin-sdk\\unspecified\\res\\drawable-xxhdpi-v4\\ic_launcher.png"
+    }
+]

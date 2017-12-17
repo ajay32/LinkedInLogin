@@ -1,0 +1,4 @@
+#Sun Dec 17 04:59:06 PST 2017
+base.0=D\:\\AndroidX\\InLogin\\eventsapp\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=D\:\\AndroidX\\InLogin\\eventsapp\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
